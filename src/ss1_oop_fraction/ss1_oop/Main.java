@@ -1,4 +1,4 @@
-package ss1_oop;
+package ss1_oop_fraction.ss1_oop;
 
 public class Main {
     public static void main(String[] args) {
