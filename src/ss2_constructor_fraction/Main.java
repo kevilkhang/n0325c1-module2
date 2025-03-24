@@ -1,4 +1,4 @@
-package ss2_constructor;
+package ss2_constructor_fraction;
 
 public class Main {
     public static void main(String[] args) {
